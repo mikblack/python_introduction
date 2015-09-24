@@ -8,12 +8,12 @@ It is old, concieved in the late 1980s and implemented in 1989, thats 26 years a
 Currently still has 2 major version python2 and python3. The transition has been slow. 
 This is because some changes to the code would have meant important 3rd party libriaries would have needed a rewrite,
 
-It has some core pholosophies.
+It has some core philosophies.
 
 - Beautful is better than ugly
 - Explicit is better than implicit
-- Simple is better than complext
-- Complex is better than comppilacted
+- Simple is better than complex
+- Complex is better than complicated
 - Readability counts
 
 
@@ -27,7 +27,7 @@ In this lesson I will cover briefly, with exercises, 3 core programming concepts
 - data structures
 - functions 
 
-And finally showing will work through some boiler plate code for creating Python command-line programs 
+And finally will work through some boiler plate code for creating Python command-line programs 
 
 ## Why python for me? 
 
@@ -35,7 +35,7 @@ DNA is essentially a string of letters, SNPs are changes in letters.
 All the sequence data farmots I work with are mostly full of strings and numbers.
 
 Python has lot's of small prgramming libraries for everything. People will
-say yea but R has lot's of packages as well. These libraries differ in that 
+say "yeah but R has lots of packages as well". These libraries differ in that 
 they are designed for creating programs to interface with commonly known datasets.
 
 I have listed two that I have frequently used to create programs the need to interface with the common sequencing formats variant call files (VCFs) and BAM (binary alignment).
@@ -44,7 +44,7 @@ I have listed two that I have frequently used to create programs the need to int
 - pyvcf https://pyvcf.readthedocs.org/en/latest/
 
 
-One can also do tasks commonly done in R with python using packages such as pandas (for DFs), with numpy and other packages from scipy (for math and stats), matplotlib and seaborn for plotting.
+One can also do tasks commonly done in R with Python using packages such as pandas (for DFs), with numpy and other packages from scipy (for math and stats), matplotlib and seaborn for plotting.
 
 - pandas http://pandas.pydata.org/
 - scipy http://www.scipy.org/
